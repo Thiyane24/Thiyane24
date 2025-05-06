@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Thiyane24
+- 👀 I’m interested in Software development and Cybersecurity
+- 🌱 I’m currently learning Python
+- 📫 How to reach me thiyane24@gmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am new to all of this so please feel free to help me
