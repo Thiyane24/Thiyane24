@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiyane Xavier</h1>
 <h3 align="center">A passionate software developer from Mozambique</h3>
 
-- 🌱 I’m currently learning **app development with the FNB App Academy but I have a strong passion for Java and Python**
+- 🌱 I’m currently learning **Python and React**
 
 - 📫 How to reach me **thiyane97@gmail.com**
 
