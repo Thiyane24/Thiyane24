@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thiyane Xavier</h1>
-<h3 align="center">A passionate software developer from Mozambique</h3>
+<h3 align="center">An IT student @ MAHSA University in KL </h3>
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **thiyane97@gmail.com**
 
-- ⚡ Fun fact **I am a soccer player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
