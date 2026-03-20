@@ -24,8 +24,7 @@ decisions. That's what pulled me toward DE.
 - 🎓 IT Student @ MAHSA University
 - 💻 Started with HTML/CSS and web projects
 - 📊 Transitioning toward Data Engineering
-- 🔨 Currently: Project 1 of 7 — CSV/JSON/TSV 
-  Data Parser & Cleaner (OOP Python)
+- 🔨 Currently: Project 4 of 7 — Schema Registry
 
 ## What drives me
 
