@@ -12,9 +12,6 @@ decisions. That's what pulled me toward DE.
 ## What I'm focused on right now
 
 - Learning Python with a focus on OOP and DE patterns
-- Building a 7-project DE learning path from scratch:
-  file parsers, pipeline runners, schema registries, 
-  message queues, and more
 - Understanding the tools that matter in production: 
   SQL, Pandas, Airflow and soon Spark
 
