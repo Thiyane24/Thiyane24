@@ -16,7 +16,7 @@ decisions. That's what pulled me toward DE.
   file parsers, pipeline runners, schema registries, 
   message queues, and more
 - Understanding the tools that matter in production: 
-  SQL, Pandas, and eventually Airflow and Spark
+  SQL, Pandas, Airflow and soon Spark
 
 ## Background
 
@@ -24,7 +24,7 @@ decisions. That's what pulled me toward DE.
 - 🎓 IT Student @ MAHSA University
 - 💻 Started with HTML/CSS and web projects
 - 📊 Transitioning toward Data Engineering
-- 🔨 Currently: Project 4 of 7 — Schema Registry
+- 🔨 Currently: InsightZone
 
 ## What drives me
 
