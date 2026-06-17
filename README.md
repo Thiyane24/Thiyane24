@@ -1,6 +1,6 @@
 # Thiyane Xavier
 
-Data Engineer in training. From Maputo, Mozambique.
+Data Engineer from Maputo, Mozambique.
 
 I got into programming through web development, but what drew me in was what happens behind the data  how it moves, how it's cleaned, how raw files become systems that power decisions. That shift is what pulled me toward Data Engineering.
 
