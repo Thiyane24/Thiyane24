@@ -14,8 +14,6 @@ Currently studying IT at MAHSA University while building real projects to close 
 
 **[Moz Vagas Pipeline](https://github.com/Thiyane24/moz-vagas-pipeline)** — An automated ETL pipeline that scrapes job listings from empregos.co.mz, mmovagas and mozvagas, it transforms and cleans the data, and loads it to AWS S3. Runs daily via GitHub Actions and is fully containerised with Docker.
 
-## What I'm building
-
 **[InsightZone](https://github.com/Thiyane24/insightzone)** — A WhatsApp-based business analytics bot for small businesses in Mozambique. Clients send a sales file (CSV, Excel, PDF) or insert sales directly by text, and receive a professional PDF report automatically  no app to install, no dashboard to learn. Built with FastAPI, PostgreSQL, Cloudinary, APScheduler, ReportLab, and the Meta Cloud API.
 
 ---
