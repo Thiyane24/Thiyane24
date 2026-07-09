@@ -155,7 +155,6 @@ Production-grade ELT pipeline orchestrated with Apache Airflow.
 
 - Airflow
 - PostgreSQL
-- Redis
 - Docker
 - Soda Core
 - Pytest
