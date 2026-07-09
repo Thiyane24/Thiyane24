@@ -61,7 +61,9 @@ Async Processing
 
 PostgreSQL
 
-Redis
+DuckDB
+
+AWS S3
 
 ---
 
@@ -94,8 +96,6 @@ GitHub Actions
 Git
 
 Docker Compose
-
-Linux
 
 Pytest
 
@@ -138,14 +138,6 @@ Cloudinary
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thiyane24&theme=algolia&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
@@ -190,6 +182,7 @@ Large-scale web scraping and analytics pipeline.
 - BeautifulSoup
 - PostgreSQL
 - Docker Compose
+- S3
 
 ---
 
