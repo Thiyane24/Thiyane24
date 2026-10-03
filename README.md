@@ -1,201 +1,120 @@
-![](https://komarev.com/ghpvc/?username=Thiyane24)
+<div align="center">
 
-![](https://img.shields.io/github/followers/Thiyane24?style=social)
+  <!-- Header Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Thiyane+Xavier;Data+Engineer+%E2%80%A2+Backend+Engineer;Building+Production+Data+Pipelines;FastAPI+%7C+Spring+Boot+%7C+Airflow+%7C+Docker" alt="Typing SVG" />
+  </a>
 
-![](https://img.shields.io/github/stars/Thiyane24?style=social)
+  <p align="center">
+    <strong>Building production-grade data systems & scalable backend APIs</strong>
+  </p>
 
-<h1 align="center">Hi 👋, I'm Thiyane Xavier</h1>
+  <!-- Visitor & Profile Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Thiyane24&color=3B82F6&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/Thiyane24?tab=followers"><img src="https://img.shields.io/github/followers/Thiyane24?style=flat-square&color=3B82F6&logo=github" alt="Followers" /></a>
+    <a href="https://github.com/Thiyane24?tab=repositories"><img src="https://img.shields.io/github/stars/Thiyane24?style=flat-square&color=3B82F6&logo=github" alt="Stars" /></a>
+  </p>
 
-<h3 align="center">
-Data Engineer • Backend Engineer • Building production-ready data systems
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer;Backend+Engineer;FastAPI+%7C+Airflow+%7C+Docker;Building+Production+Data+Pipelines;Always+Learning+Something+New" />
-
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 Diploma in Information Technology @ MAHSA University (Malaysia)
-
-🌍 Originally from Mozambique
-
-💻 Passionate about
-
-- Data Engineering
-- Backend Engineering
-- ETL/ELT Pipelines
-- Distributed Systems
-- Cloud Infrastructure
-- Analytics Platforms
-
-Currently building production-ready projects using Python, FastAPI, PostgreSQL, Docker and Apache Airflow.
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## About Me
 
-## 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-Basic-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-FastAPI
-
-REST APIs
-
-Webhooks
-
-Async Processing
-
-PostgreSQL
-
-DuckDB
-
-AWS S3
+* **Education:** Diploma in Information Technology @ MAHSA University (Malaysia)  
+* **Origin:** Mozambique  
+* **Focus Areas:**
+  - Data Engineering & Pipeline Architecture (ETL/ELT)
+  - Backend API Design & Distributed Systems
+  - Medallion Architecture & Data Quality Engineering
+  - Cloud Infrastructure & Containerization
 
 ---
 
-### Data Engineering
+## Tech Stack
 
-Apache Airflow
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-Pandas
+### Backend & Infrastructure
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-DuckDB
-
-PostgreSQL
-
-ETL
-
-ELT
-
-Medallion Architecture
-
-Data Quality
-
-Docker
-
-GitHub Actions
-
----
-
-### Tools
-
-Git
-
-Docker Compose
-
-Pytest
-
-ReportLab
-
-BeautifulSoup
-
-Cloudinary
+### Data Engineering & Databases
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![AWS S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ---
 
+## Featured Projects
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Thiyane24&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiyane24&theme=tokyo-night"/>
-
-</p>
-
----
-
----
-
-# 🚀 Featured Projects
-
-## 📊 InsightZone
-
-Business Intelligence Platform for SMEs using WhatsApp.
-
-**Tech**
-
-- FastAPI
-- PostgreSQL
-- Pandas
-- APScheduler
-- ReportLab
-- Docker
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">InsightZone</h3>
+      <p>Business Intelligence Platform for SMEs delivered through WhatsApp integration and scheduled metrics reporting.</p>
+      <p><strong>Stack:</strong> <code>FastAPI</code> <code>PostgreSQL</code> <code>Pandas</code> <code>APScheduler</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">CDI ELT Pipeline</h3>
+      <p>Production-grade ELT pipeline with automated data quality checks and workflow orchestration.</p>
+      <p><strong>Stack:</strong> <code>Apache Airflow</code> <code>PostgreSQL</code> <code>Docker</code> <code>Soda Core</code> <code>Pytest</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">First Spring App</h3>
+      <p>RESTful backend service built to demonstrate dependency injection, service orchestration, and request routing.</p>
+      <p><strong>Stack:</strong> <code>Java</code> <code>Spring Boot</code> <code>Maven</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Job Market Monitoring Pipeline</h3>
+      <p>Automated web scraping and analytical data pipeline for tracking tech hiring trends at scale.</p>
+      <p><strong>Stack:</strong> <code>BeautifulSoup</code> <code>PostgreSQL</code> <code>Docker Compose</code> <code>AWS S3</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚙ CDI ELT Pipeline
+## Analytics & Activity
 
-Production-grade ELT pipeline orchestrated with Apache Airflow.
-
-**Tech**
-
-- Airflow
-- PostgreSQL
-- Docker
-- Soda Core
-- Pytest
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Thiyane24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiyane24&theme=tokyo-night" alt="Contribution Graph" />
+</div>
 
 ---
 
-## 🌍 Job Market Monitoring Pipeline
+## Connect With Me
 
-Large-scale web scraping and analytics pipeline.
+<div align="center">
 
-**Tech**
+  <a href="https://www.linkedin.com/in/thiyane-xavier">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thiyane24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Thiyane24">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-- BeautifulSoup
-- PostgreSQL
-- Docker Compose
-- S3
+</div>
 
----
+<br/>
 
-## 🌐 WebSimples.Mz
-
-Agency websites and landing pages for businesses across Mozambique.
-
----
-
-# 🌎 Connect With Me
-
-LinkedIn
-
-www.linkedin.com/in/thiyane-xavier
-
-Email
-
-thiyane24@gmail.com
-
-Portfolio
-
-https://github.com/Thiyane24
-
----
-
-## 💡 Quote
-
-> "Build systems, not scripts."
+<blockquote align="center">
+  <em>"Build systems, not scripts."</em>
+</blockquote>
