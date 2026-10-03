@@ -73,11 +73,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">First Spring App</h3>
-      <p>RESTful backend service built to demonstrate dependency injection, service orchestration, and request routing.</p>
-      <p><strong>Stack:</strong> <code>Java</code> <code>Spring Boot</code> <code>Maven</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center">Job Market Monitoring Pipeline</h3>
       <p>Automated web scraping and analytical data pipeline for tracking tech hiring trends at scale.</p>
       <p><strong>Stack:</strong> <code>BeautifulSoup</code> <code>PostgreSQL</code> <code>Docker Compose</code> <code>AWS S3</code></p>
@@ -92,8 +87,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Thiyane24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiyane24&theme=tokyo-night" alt="Contribution Graph" />
-</div>
+  
 
 ---
 
